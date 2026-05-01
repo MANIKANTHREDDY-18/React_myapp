@@ -1,5 +1,12 @@
 export default function About() {
     return (
-        <h1>About page</h1>
+        <>
+            <h2>About</h2>
+            <ul>
+                <li>Manikanth</li>
+                <li>mca</li>
+                <li>232</li>
+            </ul>
+        </>
     )
 }
